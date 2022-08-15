@@ -38,8 +38,8 @@ global.premium = ['94701358330'] //Change it ඔබට කැමතිනම් 
 global.pengguna = 'CYBER SOUL' // Your name ඔබේ නම 
 global.botnma = '🍁අතිගරු සයිබර් සෝල් උතුමානන්🍁' // Your bot name , ඔබගෙ බොට්ගේ නම 
 global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
-global.packname = 'CYBER SOUL' // Sticker package name 
-global.author = '🍁අතිගරු සයිබර් සෝල්🍁' // Sticker Autor name 
+global.packname = 'Queen Elisa Sticker' // Sticker package name 
+global.author = 'Dark Maker' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
@@ -60,7 +60,7 @@ global.sendwelcome = `add`
 // Good bye එක ඔනි නම් remove කියලා දාන්න
 global.sendgoodbye = `remove`
 // Caption 
-global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝗖𝗬𝗕𝗘𝗥 𝗦𝗢𝗨𝗟`
+global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐌𝐃`
 global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',
